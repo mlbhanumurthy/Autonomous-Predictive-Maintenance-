@@ -1,12 +1,5 @@
 # Autonomous-Predictive-Maintenance
 ---
-## 📌 Overview
-Autonomous AI-driven system for the automotive sector
-Predicts vehicle issues and improves service quality
-Enhances customer interaction and manufacturing quality
-Intelligent agents analyze data and act across the vehicle lifecycle
-Beginner-friendly, well-organized, and easy to run or modify
----
 ## 🚀 Features
 - Simple and easy-to-understand structure
 - Beginner-friendly implementation
